@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @handcodeduk
+- 👀 I’m interested in all things Geek
+- 🌱 I’m currently learning Linux and related tech
+- 📫 Reach me by email - admin@handcoded.co.uk
